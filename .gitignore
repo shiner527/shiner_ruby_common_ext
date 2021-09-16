@@ -1,0 +1,14 @@
+/.bundle/
+/.yardoc
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+
+# MAC 系统相关
+**/.DS_Store
+
+# rspec failure tracking
+.rspec_status
